@@ -1,5 +1,5 @@
 # Pokedex
 
-Projeto de estudo, html + css + js
+Study project, html + css + js
 
 credits to manual do dev and PokéAPI project.
