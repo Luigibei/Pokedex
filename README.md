@@ -2,4 +2,4 @@
 
 Projeto de estudo, html + css + js
 
-créditos ao manual do dev e ao projeto PokéAPI.
+credits to manual do dev and PokéAPI project.
